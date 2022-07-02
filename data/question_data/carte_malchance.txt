@@ -1,0 +1,13 @@
+Coup de foudre de Zeus: redescendez de 2 cases.
+Orage de Zeus: votre bateau s'arrête pendant 1 tour.
+Abordage: vous êtes attaqués vous êtes bloqués pendant 1 tour.
+Malheur des batailles: vous subissez le malus du joueur à votre droite.
+Mariage: vous vous liez à un joueur vous partagez ses bonus et ses malus pendant 3 tours.
+Corvées: vous préparez le souper vous êtes bloqués un tour.
+Trahison: vous avez trahi Hera vous reculez de 2 cases.
+Dépouillement: vous vous faites voler une question de chaque couleur.
+Mauvais message: vous êtes perdus vous reculez d'une case.
+Vague du malheur: vous reculez d'une case.
+Deux chemins: choisissez entre Charybde et Scylla (Charybde vous êtes bloqués 2 tours Scylla vous reculez d'une case).
+Vague de soutien: vous avancez de 2 cases.
+Passage sous marin: vous êtes protégés de tout pendant 3 tours.

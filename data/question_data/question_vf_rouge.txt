@@ -1,0 +1,48 @@
+Énée est un Troyen.
+Vrai
+Didon est amoureuse d'Énée.
+Vrai
+Eole est le frère d'Énée.
+Faux
+Didon est la reine de Rome.
+Faux
+Hector annonce une prophétie à Énée.
+Faux
+Troie est détruite.
+Vrai
+Polydore est le roi de Troie.
+Faux
+Énée épouse Andromaque.
+Faux
+Hélénus est le prêtre d'Apollon.
+Vrai
+Anchise meurt en Sicile.
+Faux
+Les Harpyes sont gentilles.
+Faux
+Junon propose l'union entre Énée et Didon.
+Vrai
+Neptune avertit Énée des bateaux incendiées.
+Faux
+Iris donne l'ordre aux femmes troyennes d'incendier les bateaux.
+Vrai
+Ascagne tue Rémulus.
+Vrai
+Énée fonde Rome.
+Faux
+Phèdre descend aux Enfers pour voir son père.
+Faux
+La Sybille donne des indications à Énée pour sortir des Enfers.
+Vrai
+Mnesthée redonne courage aux Troyens.
+Vrai
+Les Amazones sont des hommes.
+Faux
+Le fils de Priam épouse Hélène à la mort de Pâris.
+Faux
+César est le descendant d'Énée.
+Faux
+Rhadamanthe explique le fonctionnement des Enfers à Énée.
+Faux
+La nourrice d'Énée se nomme Caieta.
+Vrai

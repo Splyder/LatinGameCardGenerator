@@ -1,0 +1,9 @@
+Ouragan de Zeus: vous bloquez 2 joueur de votre choix pendant 1 tour.
+Soutien divin de la part de Zeus: vous avancez de 3 cases.
+Fin stratège: Athéna vous évitez 2 malus.
+Alliance: vous partagez le prochain bonus du joueur à votre gauche.
+Mariage: vous vous liez à un joueur vous partagez ses bonus et ses malus pendant 3 tours.
+Protection: vous êtes protégés 4 tours.
+Raquette: vous volez un point au joueur de votre choix.
+Bonne nouvelle: Hermes vous indique un raccourci, vous avancez de 2 cases.
+
